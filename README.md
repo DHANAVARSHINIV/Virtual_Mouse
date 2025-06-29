@@ -24,3 +24,6 @@ This project lets you control your computer’s mouse using only your hand gestu
 ```bash
 git clone https://github.com/yourusername/VirtualMouse.git
 cd VirtualMouse
+## **Demo Video**
+
+👉 [Watch the demo here](https://drive.google.com/file/d/1w_csKRbx2pbAIwcuqwyk7vQWz0YP6Tw2/view?usp=sharing)
